@@ -180,3 +180,60 @@ textarea {
 }
 
 /* end normalize.css form styles */
+
+/* ===== BASE STYLES ===== */
+/* TOD: Convert all px units to em */
+html {
+	font-size: 1.2375em; /* 22px */
+	line-height: 1.182em; /* 26 px / ~ 120 % */
+  padding: 1.182em; /* 26px / ~ 120% */
+  text-rendering: optimizelegibility; 
+}
+
+
+h1 {
+	font-size: 35.156;
+	line-height: 56px;
+	color: red;
+	text-align: center;
+	
+}
+
+/* Responsive Media */
+img, audio, video {
+  display: block;
+  max-width: 100%;
+}
+
+/* Form */
+label,
+input {
+  box-sizing: border-box;
+  display: block;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+input[type="email"]
+{
+	/*border: 0; */
+	box-align: center;
+}
+input[type="submit"]
+{
+	
+}
+
+/* ===== LAYOUT STYLES ===== */
+
+
+/* ===== MODULAR STYLES ===== */
+
+
+/* ===== STATE STYLES ===== */
+.hasjs input[type="submit"].active
+{
+	position: static;
+	
+}
