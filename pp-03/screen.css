@@ -188,18 +188,18 @@ html {
 	line-height: 1.182em; /* 26 px / ~ 120 % */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizelegibility;
-  background-color: black;  
+  background-color: #6E12FF;  
 }
 
 
 h1 {
 	font-size: 35.156;
-	line-height: 56px;
+	line-height: 3.5em; /* 56px / 16px = 3.5em */
 	color: black;
 	text-align: center;
-  background: -moz-repeating-linear-gradient(top left -45deg, blue, blue 5px, white 5px, white 10px);
+  /*background: -moz-repeating-linear-gradient(top left -45deg, blue, blue 5px, white 5px, white 10px);
   background: repeating-linear-gradient(to top left, blue, blue 5px, white 5px, white 10px);
-
+*/
 	
 }
 
@@ -210,23 +210,40 @@ img, audio, video {
 }
 
 /* Form */
-label,
-input {
+label
+ {
   box-sizing: border-box;
   display: block;
   font-family: inherit;
   font-size: inherit;
+  font-weight: bolder;
+  color: #F6FF50;
   line-height: inherit;
+  
+}
+input
+{
+  box-sizing: border-box;
+  display: block;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: bolder;
+  color: black;
+  line-height: inherit; 
+  
+    
 }
 
 input[type="email"]
 {
 	/*border: 0; */
-	box-align: center;
+	/* box-align: center; */
+   padding-bottom: 1.182em; /* 26px / ~ 120% */
+  
 }
 input[type="submit"]
 {
-	
+	 
 }
 
 /* ===== LAYOUT STYLES ===== */
