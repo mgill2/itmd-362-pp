@@ -198,6 +198,7 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
   font-family: sans-serif, serif;
+  background-color: #FFE7A6;
 }
 
 h1 {
