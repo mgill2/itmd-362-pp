@@ -184,11 +184,12 @@ textarea {
 /* ===== BASE STYLES ===== */
 /* TOD: Convert all px units to em */
 html {
-	font-size: 1.2375em; /* 22px */
+	display: grid;
+  font-size: 1.2375em; /* 22px */
 	line-height: 1.182em; /* 26 px / ~ 120 % */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizelegibility;
-  background-color: #6E12FF;  
+  /* background-color: #6E12FF; */ 
 }
 
 
