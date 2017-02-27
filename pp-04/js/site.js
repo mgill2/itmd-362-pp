@@ -14,7 +14,7 @@ jQuery(function($) {
   
   WebFontConfig = {
   google: {
-    families: ['Fjalla One', 'Fjalla One:sans-serif']
+    families: ['PT Sans', 'PT Sans:sans-serif']
   }
 };
   
