@@ -192,10 +192,27 @@ img, audio, video {
 */
 
 html {
+  box-sizing: border-box;
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+}
+
+h1 {
+  font-size: 35.156px;
+  text-align: center;  
+}
+
+/* Form */
+input {
+  box-sizing: border-box;
+  display: block;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  
+  
 }
 
 label {
