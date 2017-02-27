@@ -5,4 +5,17 @@ $.noConflict();
 jQuery(function($) {
   $('html').removeClass('nojs');
   $('html').addClass('hasjs');
+  
+  WebFontConfig = {
+  google: {
+    families: ['Baloo', 'Baloo:cursive']
+  }
+};
+  
+  WebFontConfig = {
+  google: {
+    families: ['Fjalla One', 'Fjalla One:sans-serif']
+  }
+};
+  
 });
