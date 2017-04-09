@@ -26,8 +26,8 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL):https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/
+* How you implemented it in your sketch: I used the clarity point on Apple's site because this helps the user understand what you are trying to convey. It produces the right size and shapes for the user. The spacing shows that there is no inactvity. 
 
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:
