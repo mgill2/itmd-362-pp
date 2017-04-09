@@ -30,7 +30,7 @@ Small commits to your Production Problems repository that include:
 * How you implemented it in your sketch: I used the clarity point on Apple's site because this helps the user understand what you are trying to convey. It produces the right size and shapes for the user. The spacing shows that there is no inactvity. 
 
 * HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* How you implemented it in your sketch: I used the user control portion of Apple's HCI by implimenting boxes, this helpes the user with the choices and says "choose one". 
 
 * HCI Guidline Three (URL):
 * How you implemented it in your sketch:
