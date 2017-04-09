@@ -32,5 +32,5 @@ Small commits to your Production Problems repository that include:
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch: I used the user control portion of Apple's HCI by implimenting boxes, this helpes the user with the choices and says "choose one". 
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL): https://developer.microsoft.com/en-us/windows/desktop/design
+* How you implemented it in your sketch: I added the Enabling portion of the Windows guidlines to help the user be able to get to where they want to go, not give a bunch of features that are not used or wanted.
